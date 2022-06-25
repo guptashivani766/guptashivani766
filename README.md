@@ -1,104 +1,82 @@
-<!-- ------------------------------------------------------------------------------------- -->
-<!-- ABOUT SECTION -->
+<!-- INTRO SECTION -->
 ## <div align="center"><img height="37px" width="37px" src="Gifs/Hi.gif">&nbsp;&nbsp;Hello.World&nbsp;{&nbsp;<img align="center" height="37px" width="37px" src="Gifs/Background.gif">&nbsp;}
   </div>
   
-<!-- About me -->  
-## <div align="center"><img height="45px" width="45px" src="Gifs/gif3.gif"/>I am here to Learn ,explore🙂 && Contribute with Github🌱
-   </div><br>
-   <div align="center">
-        &nbsp;<img src="Gifs/giphy.gif">
+### <div align="center"><img height="37px" width="37px" src="Gifs/gif3.gif">I am here to Learn ,explore🙂 && Contribute with Github🌱
+  </div>
+  <div align="center">
+    <img src="Gifs/giphy.gif" height="auto" width="auto">
+  </div><br>
+  
+  
+  
+  
+<!-- ABOUT ME SECTION -->  
+## <div align="center"><img height="45px" width="45px" src="Gifs/star.gif"/>About Me<img height="45px" width="45px" src="Gifs/star.gif"/>
    </div>
   <!-- ABOUT INFO -->
   <ul>
-    <li>💁 I’m currently working on my Web development and Problem Solving skills(DSA).</li>
-    <li>🤞 I’m currently trying have grip on machine learning.</li>
-    <li>💗 I love to code and I can spend hours without getting distracted.</li>
-    <li>✨ I really like to try new tecnology and try to work in that.</li>
-    <li>🥲 I love doing CP but only until I am able to solve, ones I get stuck on a problem it takes me dyas to figure out how that will work.</li>
-  </ul>
+    <li>🌈 I’m currently working on my <b>Web development and Problem Solving skills(DSA)</b>.</li>
+    <li>🌱 I’m currently pursuing my <b>Btech</b> degree in <b>Computer Science</b>.</li>
+    <li>💗 I love to design website <b>UX|UI</b>.</li>
+    <li>📄  Currently, I'am exploring my <b>javascript</b> concepts.</li>
+    <li>⚡ I believe that <b>Dream it,wish it and do it</b>.</li>
+  </ul><br>
 
 
-<!-- GITHUB STATS SECTION -->
-## <div align="center"><img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173223735-d842e8b5-6940-4e8a-bcd4-515951465e62.gif">&nbsp;&nbsp;GitHub Stats&nbsp;<img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173223735-d842e8b5-6940-4e8a-bcd4-515951465e62.gif">
-  </div>
-  <!-- GITHUB STATS GIF -->
+
+
+<!-- TECHNOLOGIES SECTION -->
+## <div align="center"><img height="37px" width="37px" src="Gifs/Computer.gif" align="center">Technologies<br><sub>💻&nbsp;🌱(I have worked with)</sub>
+   </div>
+  <!-- TECHNOLOGIES LIST -->
+    <ul>
+      <li>💻 <b>HTML| CSS | JavaSricpt</b>.</li>
+      <li>🔧 <b>C | java | python</b>.</li>
+      <li>🔨 <b>Visual Studio | Eclipse |Git</b>.</li>
+      <li>📊 <b>Algorithm | Data Structures</b>.</li>
+      <li>✂️ <b>Figma | UX/UI</b>.</li>
+    </ul><br>
+  
+  
+  
+  
+<!-- STATS SECTION --> 
+## <div align="center"><img height="37px" width="37px" src="eye.gif" align="center">Stats
+   </div>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=younus-Sid&show_icons=true&theme=merko">
-  </div>
-
-
-<!-- STREAK SECTION -->
-## <div align="center"><img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173223907-14b30c3f-f179-48d5-b09f-14053c2521b2.gif">&nbsp;&nbsp;My Streak&nbsp;<img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173223907-14b30c3f-f179-48d5-b09f-14053c2521b2.gif">
-  </div>
-  <!-- GITHUB STREAK GIF -->
+    <img src="https://github-readme-stats.vercel.app/api?username=guptashivani766&count_private=true&show_icons=true&theme=algolia">
+  </div><hr>  
+  
+  <!-- CONTRIBUTION SECTION -->  
   <div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=younus-Sid&theme=merko">
-  </div>
-
-
-<!-- GITHUB LANGUAGES USED SECTION -->
-## <div align="center"><img height="30px" width="30px" src="https://user-images.githubusercontent.com/91816645/173224399-7a5ba8d2-fa6d-46c0-945b-c485dc497f9f.gif">&nbsp;&nbsp;Languages Used&nbsp;&nbsp;<img height="30px" width="30px" src="https://user-images.githubusercontent.com/91816645/173224399-7a5ba8d2-fa6d-46c0-945b-c485dc497f9f.gif">
-  </div>
-  <!-- LANGUAGES USED GIF -->
+    <img src="https://lostgirljourney-on-github.herokuapp.com/graph?username=guptashivani766&theme=dracula&bg_color=000000&hide_border=true">
+  </div><hr>
+ 
+  <!-- STREAK SECTION -->
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younus-Sid&theme=merko">
-  </div>
-
-
-<!-- MY TOOLS SECTION -->
-## <div align="center"><img height="41px" width="41px" src="https://user-images.githubusercontent.com/91816645/173222875-af56e6e0-0a0f-4edb-bd92-71063ac44756.gif" align="center">&nbsp;&nbsp;My Tools&nbsp;&nbsp;<img height="41px" width="41px" src="https://user-images.githubusercontent.com/91816645/173222875-af56e6e0-0a0f-4edb-bd92-71063ac44756.gif" align="center">
-  </div>
-  <!-- MY TOOLS LIST -->
-  <ul>
-    <li>Languages : C/C++, Python, C#, Java</li>
-    <li>Softwares: Android Studio, Unity, Blender, VS Code</li>
-    <li>Frameworks : Django, Tensorflow</li>
-  </ul>
-
-
-<!-- MY PROJECT SECTION -->
-## <div align="center"><img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173224552-1431c82c-250d-43f1-a3f7-0eb0fe115f7d.gif" align="center">&nbsp;&nbsp;My Projects&nbsp;&nbsp;<img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173224552-1431c82c-250d-43f1-a3f7-0eb0fe115f7d.gif" align="center">
-  </div>
-  <!-- MY PROJECTS LIST -->
-  <ul>
-    <li>Built A Jigsaw Puzzle game using Unity.</li>
-    <li>Made a machine learning model used for detecting sign-language alphabets and can also detect some come words used in sign language.</li>
-    <li>Working on an app that does complex mathematical computations.</li>
-  </ul>
-
-
-<!-- CONTRIBUTION SECTION -->
-## <div align="center"><img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173222757-326a27de-063a-4c14-8e8d-bd46c6361b25.gif">&nbsp;&nbsp;Contributions&nbsp;<img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173222757-326a27de-063a-4c14-8e8d-bd46c6361b25.gif">
-  </div>
-  <!-- CONTRIBUTION GIF -->
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=guptashivani766&theme=radical&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="Abhijeet-Anand-01">
+  </div><hr>
+  
+  <!-- LANGUAGES USED SECTION -->
   <div align="center">
-    <img src="https://github.com/younus-Sid/younus-Sid/blob/output/github-contribution-grid-snake.svg">
-  </div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptashivani766&show_icons=true&layout=compact&theme=algolia">
+  </div><hr><br>
+  
+  
 
 
 <!-- CONNECT ME SECTION -->
-## <div align="center"><img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173221621-38c0a8d9-c362-430f-9813-714eca6836b7.gif" align="center">&nbsp;&nbsp;Connect Here&nbsp;&nbsp;<img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173221621-38c0a8d9-c362-430f-9813-714eca6836b7.gif" align="center">
+## <div align="center"><img height="37px" width="37px" src="Gifs/Connect.gif" align="center">&nbsp;&nbsp;Connect with me
   </div>
-  <!-- LINKEDIN SECTION -->
   <div align="center">
-    <!-- LINKEDIN SVG -->
-    <a href="https://www.linkedin.com/in/younus-siddique-coyousi-59908020a">
-      <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="27px" align="center" />
+  <!-- LINKEDIN SECTION -->
+    <a href="#">
+      <img src="linkedin.svg" alt="@LinkedIn" width="27px" align="center" />
     </a>&nbsp;&nbsp;
-    <!-- EMAIL SECTION -->
-    <a href="mailto: karocode11@gmail.com">
-      <!-- EMAIL SVG -->
-      <img width="27px" src="https://user-images.githubusercontent.com/91816645/173191980-4141ba6a-aef8-487b-8f02-adae39601e20.svg" align="center">
-    </a>&nbsp;&nbsp;
-    <!-- INSTAGRAM SECTION -->
-    <a href="https://instagram.com/coyousi19">
-      <!-- INSTAGRAM SVG -->
-      <img  src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="27px" align="center"/>
+  <!-- EMAIL SECTION -->
+    <a href="mailto:shivanigupta4673@gmail.com">
+      <img src="gmail.svg" alt="@mail" width="27px" align="center">
     </a><br>
   </div>
-
-
-  
-
 
