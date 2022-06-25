@@ -1,69 +1,102 @@
-<h1 align="center"><img width="45px"src="Gifs/Hi.gif"><b>Hello.World</b>
-       {<img align="center" height="50px" width="50px"src="Gifs/Background.gif">}</h1>
-    
-<h2 align="center"><img align="center" height="80px" width="75px" src="Gifs/gif3.gif"/>I am here to Learn ,explore🙂 && Contribute with Github🌱</h3><br>
-<div align="center">
+<!-- ------------------------------------------------------------------------------------- -->
+<!-- ABOUT SECTION -->
+## <div align="center"><img height="37px" width="37px" src="Gifs/Hi.gif">&nbsp;&nbsp;Hello.World&nbsp;{&nbsp;<img align="center" height="37px" width="37px" src="Gifs/Background.gif">&nbsp;}
+  </div>
+  
+<!-- About me -->  
+## <div align="center"><img height="45px" width="45px" src="Gifs/gif3.gif"/>I am here to Learn ,explore🙂 && Contribute with Github🌱
+   </div><br>
+   <div align="center">
         &nbsp;<img src="Gifs/giphy.gif">
-</div>
-<p>
-        <h1 align="center"><img width="50px"src="Gifs/star.gif">About Me<img width="50px"src="Gifs/star.gif"></h1>
-        
-- 🌈 I’m currently working on my **Web development and Problem Solving skills(DSA)**.
-- 🌱 I’m currently pursuing my **Btech** degree in **Computer Science**.
-- 💗 I love to design website **UX|UI**.
-- 📄  Currently, I'am exploring my **javascript**concepts.
-- ⚡ I believe that **Dream it,wish it and do it**.
-
-</p>
-
-<p>
-
-<h1 align="center"><img width="50px"src="Gifs/Computer.gif">Technologies<br><sub>💻&nbsp;🌱(I have worked with)</sub></h1>
+   </div>
+  <!-- ABOUT INFO -->
+  <ul>
+    <li>💁 I’m currently working on my Web development and Problem Solving skills(DSA).</li>
+    <li>🤞 I’m currently trying have grip on machine learning.</li>
+    <li>💗 I love to code and I can spend hours without getting distracted.</li>
+    <li>✨ I really like to try new tecnology and try to work in that.</li>
+    <li>🥲 I love doing CP but only until I am able to solve, ones I get stuck on a problem it takes me dyas to figure out how that will work.</li>
+  </ul>
 
 
-    
-- 💻 **HTML| CSS | JavaSricpt**.
-- 🔧 **C | java | python**.
-- 🔨 **Visual Studio | Eclipse |Git**.
-- 📊 **Algorithm | Data Structures**.
-- ✂️ **Figma | UX/UI**.
-</p>
-<p>
-       <h1 align="center"><img width="50px"src="eye.gif">Stats</h>
-       
-</p> 
-<p>
-<div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=guptashivani766&count_private=true&show_icons=true&theme=algolia">
-</div>
-<hr>
-<div align="center">
-        <img src="https://lostgirljourney-on-github.herokuapp.com/graph?username=guptashivani766&theme=dracula&bg_color=000000&hide_border=true">
-</div>
-<hr>
-<div>
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=guptashivani766&theme=radical&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="Abhijeet-Anand-01"/>
-</div>
-<hr>
-<div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptashivani766&show_icons=true&layout=compact&theme=algolia">
-</div>
-<hr>
-</p>
+<!-- GITHUB STATS SECTION -->
+## <div align="center"><img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173223735-d842e8b5-6940-4e8a-bcd4-515951465e62.gif">&nbsp;&nbsp;GitHub Stats&nbsp;<img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173223735-d842e8b5-6940-4e8a-bcd4-515951465e62.gif">
+  </div>
+  <!-- GITHUB STATS GIF -->
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=younus-Sid&show_icons=true&theme=merko">
+  </div>
 
 
-<h1 align="center"><img width="60px" height="60px"src="Gifs/Connect.gif">Connect with me</h1>
-        
-<p align = "center">
-<a href="#">
-      <img align="center" alt="@Linkedln" width="22px" src="linkedin.svg" />&nbsp;
- </a>&nbsp;
-<a href="mailto:shivanigupta4673@gmail.com">
-      <img align="center" alt="@mail" width="22px" src="gmail.svg" />&nbsp;
-</a>
-   
+<!-- STREAK SECTION -->
+## <div align="center"><img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173223907-14b30c3f-f179-48d5-b09f-14053c2521b2.gif">&nbsp;&nbsp;My Streak&nbsp;<img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173223907-14b30c3f-f179-48d5-b09f-14053c2521b2.gif">
+  </div>
+  <!-- GITHUB STREAK GIF -->
+  <div align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=younus-Sid&theme=merko">
+  </div>
 
-</p>
+
+<!-- GITHUB LANGUAGES USED SECTION -->
+## <div align="center"><img height="30px" width="30px" src="https://user-images.githubusercontent.com/91816645/173224399-7a5ba8d2-fa6d-46c0-945b-c485dc497f9f.gif">&nbsp;&nbsp;Languages Used&nbsp;&nbsp;<img height="30px" width="30px" src="https://user-images.githubusercontent.com/91816645/173224399-7a5ba8d2-fa6d-46c0-945b-c485dc497f9f.gif">
+  </div>
+  <!-- LANGUAGES USED GIF -->
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younus-Sid&theme=merko">
+  </div>
+
+
+<!-- MY TOOLS SECTION -->
+## <div align="center"><img height="41px" width="41px" src="https://user-images.githubusercontent.com/91816645/173222875-af56e6e0-0a0f-4edb-bd92-71063ac44756.gif" align="center">&nbsp;&nbsp;My Tools&nbsp;&nbsp;<img height="41px" width="41px" src="https://user-images.githubusercontent.com/91816645/173222875-af56e6e0-0a0f-4edb-bd92-71063ac44756.gif" align="center">
+  </div>
+  <!-- MY TOOLS LIST -->
+  <ul>
+    <li>Languages : C/C++, Python, C#, Java</li>
+    <li>Softwares: Android Studio, Unity, Blender, VS Code</li>
+    <li>Frameworks : Django, Tensorflow</li>
+  </ul>
+
+
+<!-- MY PROJECT SECTION -->
+## <div align="center"><img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173224552-1431c82c-250d-43f1-a3f7-0eb0fe115f7d.gif" align="center">&nbsp;&nbsp;My Projects&nbsp;&nbsp;<img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173224552-1431c82c-250d-43f1-a3f7-0eb0fe115f7d.gif" align="center">
+  </div>
+  <!-- MY PROJECTS LIST -->
+  <ul>
+    <li>Built A Jigsaw Puzzle game using Unity.</li>
+    <li>Made a machine learning model used for detecting sign-language alphabets and can also detect some come words used in sign language.</li>
+    <li>Working on an app that does complex mathematical computations.</li>
+  </ul>
+
+
+<!-- CONTRIBUTION SECTION -->
+## <div align="center"><img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173222757-326a27de-063a-4c14-8e8d-bd46c6361b25.gif">&nbsp;&nbsp;Contributions&nbsp;<img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173222757-326a27de-063a-4c14-8e8d-bd46c6361b25.gif">
+  </div>
+  <!-- CONTRIBUTION GIF -->
+  <div align="center">
+    <img src="https://github.com/younus-Sid/younus-Sid/blob/output/github-contribution-grid-snake.svg">
+  </div>
+
+
+<!-- CONNECT ME SECTION -->
+## <div align="center"><img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173221621-38c0a8d9-c362-430f-9813-714eca6836b7.gif" align="center">&nbsp;&nbsp;Connect Here&nbsp;&nbsp;<img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173221621-38c0a8d9-c362-430f-9813-714eca6836b7.gif" align="center">
+  </div>
+  <!-- LINKEDIN SECTION -->
+  <div align="center">
+    <!-- LINKEDIN SVG -->
+    <a href="https://www.linkedin.com/in/younus-siddique-coyousi-59908020a">
+      <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="27px" align="center" />
+    </a>&nbsp;&nbsp;
+    <!-- EMAIL SECTION -->
+    <a href="mailto: karocode11@gmail.com">
+      <!-- EMAIL SVG -->
+      <img width="27px" src="https://user-images.githubusercontent.com/91816645/173191980-4141ba6a-aef8-487b-8f02-adae39601e20.svg" align="center">
+    </a>&nbsp;&nbsp;
+    <!-- INSTAGRAM SECTION -->
+    <a href="https://instagram.com/coyousi19">
+      <!-- INSTAGRAM SVG -->
+      <img  src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="27px" align="center"/>
+    </a><br>
+  </div>
 
 
   
