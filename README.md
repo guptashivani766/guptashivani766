@@ -1,8 +1,8 @@
 <!-- INTRO SECTION -->
-## <div align="center"><img height="37px" width="37px" src="Gifs/Hi.gif">&nbsp;&nbsp;Hello.World&nbsp;{&nbsp;<img align="center" height="37px" width="37px" src="Gifs/Background.gif">&nbsp;}
+# <div align="center"><img height="37px" width="37px" src="Gifs/Hi.gif">&nbsp;&nbsp;Hello.World&nbsp;{&nbsp;<img align="center" height="37px" width="37px" src="Gifs/Background.gif">&nbsp;}
   </div>
   
-### <div align="center"><img height="37px" width="37px" src="Gifs/gif3.gif">I am here to Learn ,explore🙂 && Contribute with Github🌱
+## <div align="center"><img height="37px" width="37px" src="Gifs/gif3.gif">I am here to Learn ,explore🙂 && Contribute with Github🌱
   </div>
   <div align="center">
     <img src="Gifs/giphy.gif" height="auto" width="auto">
@@ -12,7 +12,7 @@
   
   
 <!-- ABOUT ME SECTION -->  
-## <div align="center"><img height="45px" width="45px" src="Gifs/star.gif"/>About Me<img height="45px" width="45px" src="Gifs/star.gif"/>
+# <div align="center"><img height="45px" width="45px" src="Gifs/star.gif"/>&nbsp;&nbsp;About Me&nbsp;&nbsp;<img height="45px" width="45px" src="Gifs/star.gif"/>
    </div>
   <!-- ABOUT INFO -->
   <ul>
@@ -27,7 +27,7 @@
 
 
 <!-- TECHNOLOGIES SECTION -->
-## <div align="center"><img height="37px" width="37px" src="Gifs/Computer.gif" align="center">Technologies<br><sub>💻&nbsp;🌱(I have worked with)</sub>
+# <div align="center"><img height="37px" width="37px" src="Gifs/Computer.gif" align="center">Technologies<br><sub>💻&nbsp;🌱(I have worked with)</sub>
    </div>
   <!-- TECHNOLOGIES LIST -->
     <ul>
@@ -42,15 +42,17 @@
   
   
 <!-- STATS SECTION --> 
-## <div align="center"><img height="37px" width="37px" src="eye.gif" align="center">Stats
-   </div>
+# <div align="center"><img height="45px" width="45px" src="eye.gif" align="center">&nbsp;&nbsp;Stats
+  </div>
+   
+  <!-- LANGUAGES USED SECTION -->
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptashivani766&show_icons=true&layout=compact&theme=algolia">
+  </div><hr>
+  
+  <!-- GITHUB STATS SECTION -->
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=guptashivani766&count_private=true&show_icons=true&theme=algolia">
-  </div><hr>  
-  
-  <!-- CONTRIBUTION SECTION -->  
-  <div align="center">
-    <img src="https://lostgirljourney-on-github.herokuapp.com/graph?username=guptashivani766&theme=dracula&bg_color=000000&hide_border=true">
   </div><hr>
  
   <!-- STREAK SECTION -->
@@ -58,16 +60,16 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=guptashivani766&theme=radical&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="Abhijeet-Anand-01">
   </div><hr>
   
-  <!-- LANGUAGES USED SECTION -->
+  <!-- CONTRIBUTION SECTION -->  
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptashivani766&show_icons=true&layout=compact&theme=algolia">
+    <img src="https://lostgirljourney-on-github.herokuapp.com/graph?username=guptashivani766&theme=dracula&bg_color=000000&hide_border=true">
   </div><hr><br>
   
-  
+
 
 
 <!-- CONNECT ME SECTION -->
-## <div align="center"><img height="37px" width="37px" src="Gifs/Connect.gif" align="center">&nbsp;&nbsp;Connect with me
+# <div align="center"><img height="45px" width="45px" src="Gifs/Connect.gif" align="center">&nbsp;&nbsp;Connect with me
   </div>
   <div align="center">
   <!-- LINKEDIN SECTION -->
